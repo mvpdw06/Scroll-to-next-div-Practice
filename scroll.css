@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    overflow: hidden;
+}
+.container div{
+    background-size: cover;
+    height: 100vh;
+}
+.p01{
+    background-image: url(images/p01.jpg);
+}
+.p02{
+    background-image: url(images/p02.jpg);
+}
+.p03{
+    background-image: url(images/p03.jpg);
+}
+.p04{
+    background-image: url(images/p04.jpg);
+}
+.p05{
+    background-image: url(images/p05.jpg);
+}
